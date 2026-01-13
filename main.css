@@ -1,6 +1,19 @@
-h1 {
-color:aqua;
-font-size: 300px;
+/* go from most broad to more specific */
+
+body {
+    max-width: 800px;
+    background-color: beige;
+    margin: auto;
 }
 
-/* this is how you comment on CSS
+
+h1 {
+color:aqua;
+font-size: 60px;
+}
+
+section img{
+    width: 10%;
+}
+
+/* this is how you comment on CSS */
